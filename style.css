@@ -232,7 +232,7 @@ td, th {
     nav {
         position: static;
     }
-    .box, .principal, .map-container, .contenido-diferenciales, .video-barber {
+    .box, .products, .principal, .map-container, .contenido-diferenciales, .video-barber {
         width: auto;
     }
     .listas-dif, .img-dif {
