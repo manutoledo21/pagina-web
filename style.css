@@ -232,8 +232,11 @@ td, th {
     nav {
         position: static;
     }
-    .box, .products, .principal, .map-container, .contenido-diferenciales, .video-barber {
+    .box, .principal, .map-container, .contenido-diferenciales, .video-barber {
         width: auto;
+    }
+    .product li {
+        width: 300px;
     }
     .listas-dif, .img-dif {
         width: 100%;
