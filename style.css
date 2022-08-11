@@ -235,6 +235,14 @@ td, th {
     .box, .principal, .map-container, .contenido-diferenciales, .video-barber {
         width: auto;
     }
+    .products {
+        padding: 25px;
+    }
+    .products li{
+        width: 300px;
+        display: block;
+        margin-bottom: 10px;
+    }
     .listas-dif, .img-dif {
         width: 100%;
     }
